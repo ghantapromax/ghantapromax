@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,00ff00,000000&height=200&section=header&text=GHANTA%20PRO%20MAX&fontSize=80&fontAlignY=35&animation=twinkling&desc=Free%20Cloud%20%7C%20Testnet%20Automation%20%7C%20Matrix%20Hacker%20Vibes&descAlignY=55&descAlign=50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f2027,00ff00,000000&height=200&section=header&text=GHANTA%20PRO%20MAX&fontSize=80&fontAlignY=35&fontColor=39FF14&animation=twinkling&desc=Free%20Cloud%20%7C%20Testnet%20Automation%20%7C%20Matrix%20Hacker%20Vibes&descAlignY=55&descAlign=50&descColor=00FF00&descSize=18" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00ffcc,00ff00,ccff00&height=200&section=header&text=GHANTA%20PRO%20MAX&fontSize=80&fontAlignY=35&fontColor=000000&animation=twinkling&desc=Free%20Cloud%20%7C%20Testnet%20Automation%20%7C%20Matrix%20Hacker%20Vibes&descAlignY=55&descAlign=50&descColor=000000&descSize=18" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,00ff00,000000&height=200&section=header&text=GHANTA%20PRO%20MAX&fontSize=80&fontAlignY=35&fontColor=39FF14&animation=twinkling&desc=Free%20Cloud%20%7C%20Testnet%20Automation%20%7C%20Matrix%20Hacker%20Vibes&descAlignY=55&descAlign=50&descColor=00FF00&descSize=18" alt="GHANTA PRO MAX Banner" />
+  </picture>
 </div>
 
 <div align="center">
