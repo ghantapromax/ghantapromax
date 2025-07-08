@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GHANTA%20PRO%20MAX&fontSize=70&fontAlignY=35&animation=twinkling&desc=Testnet%20Warrior%20%7C%20Free%20Cloud%20Hacker%20%7C%20AI%20Learner&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=GHANTA%20PRO%20MAX&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Testnet%20Warrior%20%7C%20Free%20Cloud%20Hacker%20%7C%20AI%20Learner&descAlignY=55&descAlign=50&descSize=20&descColor=FFD700"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Testnet+Expert;Cloud+Hack+Master;YouTube+Tutorial+Creator;Free+VPS+Guide+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=Testnet+Expert;Cloud+Hack+Master;YouTube+Tutorial+Creator;Free+VPS+Guide+Specialist" />
 </div>
 
 <div align="center">
@@ -66,5 +66,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=35&animation=twinkling"/>
 </div>
