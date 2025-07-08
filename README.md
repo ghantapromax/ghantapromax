@@ -1,6 +1,3 @@
-# Final full-width GitHub profile-style README with complete structure
-
-full_matrix_readme = """
 <!-- DYNAMIC THEME BANNER -->
 <div align="center">
   <picture>
@@ -30,7 +27,7 @@ full_matrix_readme = """
 
 ---
 
-## 🛠️ My Matrix Arsenal
+## 🔧 My Matrix Arsenal
 
 <div align="center">
   <img src="https://img.shields.io/badge/GCP-Free_Tier-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -66,7 +63,7 @@ full_matrix_readme = """
 
 ---
 
-## 📡 Connect with Ghanta Grid
+## 📱 Connect with Ghanta Grid
 
 <div align="center">
   <a href="https://t.me/GhantaProMax">
@@ -86,11 +83,3 @@ full_matrix_readme = """
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,00ff00,000000&height=120&section=footer&text=Access%20Granted%20.%20.%20.%20Welcome%20to%20The%20Ghanta%20Matrix&fontSize=22&fontAlignY=35&animation=twinkling"/>
 </div>
-"""
-
-# Save full README version
-final_matrix_readme_path = "/mnt/data/README_GHANTA_MATRIX_FULL.md"
-with open(final_matrix_readme_path, "w", encoding="utf-8") as file:
-    file.write(full_matrix_readme)
-
-final_matrix_readme_path
