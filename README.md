@@ -1,25 +1,17 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ghanta%20Pro%20Max&fontSize=80&fontAlignY=35&animation=twinkling&desc=Testnet%20Hunter%20%7C%20Cloud%20Ninja%20%7C%20YouTube%20Guide%20Creator&descAlignY=55&descAlign=50"/>
-</div>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm GhantaProMax!
+*Testnet Hunter | Cloud Ninja | YouTube Guide Creator*
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Testnet+Hunter;Cloud+Tools+Explorer;Free+GPU+Guide+Maker;Telegram+Community+Builder" alt="Typing SVG" />
 </div>
 
+<!--Profile Count Badge-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GhantaProMax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Full_Stack_Developer-5%2B_Years-0078D6?style=for-the-badge&logo=developer&logoColor=white" />
-        <img src="https://img.shields.io/badge/Testnet_Work-Expert-00C853?style=for-the-badge&logo=enterprise&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
 ## 💼 Core Competencies
 
@@ -79,16 +71,58 @@
   </table>
 </div>
 
-## 📊 GitHub Analytics
+---
 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/GhantaProMax">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=GhantaProMax&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/GhantaProMax">
+          <img align="center" src="https://streak-stats.demolab.com?user=GhantaProMax&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/GhantaProMax">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GhantaProMax&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=GhantaProMax&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=GhantaProMax&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GhantaProMax&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GhantaProMax GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhantaProMax&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhantaProMax&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhantaProMax&theme=dark&hide_border=true" />
-</div>
+---
+
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=Difficulties%20strengthen%20the%20mind%2C%20as%20labor%20does%20the%20body.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+---
 
 ## 📫 Connect With Me
 
@@ -104,7 +138,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Let's%20Connect!&fontSize=40&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </div>
 
 <picture>
